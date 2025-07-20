@@ -28,6 +28,7 @@ dependencies {
 ```
 
 Project STructure:
+```
 app/
 ├── src/
 │   ├── main/
@@ -43,7 +44,7 @@ app/
 │   │   │   │   └── item_entity.xml
 │   ├── test/                           # Unit tests
 │   └── androidTest/                    # Instrumentation tests
-
+```
 
 Authentication:
 
