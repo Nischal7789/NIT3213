@@ -63,9 +63,9 @@ Base URL: https://nit3213api.onrender.com/
 
 Endpoints:
 
-    POST /footscray/auth - User authentication
+    POST /sydney/auth - User authentication // my location is sydney
 
-    GET /dashboard/{keypass} - Retrieves photography techniques
+    GET /dashboard/{keypass} - // my keypass is photography
 
 🚀 Features
 
