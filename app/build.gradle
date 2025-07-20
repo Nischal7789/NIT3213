@@ -1,7 +1,6 @@
 plugins {
     alias(libs.plugins.android.application)
 }
-
 android {
     namespace 'com.nit3213app.nit3213finalproject'
     compileSdk 35
